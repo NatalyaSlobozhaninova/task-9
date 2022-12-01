@@ -1,0 +1,24 @@
+.card-header {
+    background-color: aquamarine;
+}
+
+.m-0 {
+    background-color: palegreen;
+}
+
+.card-body {
+    background-color: plum;
+}
+
+.card-title {
+    color: brown;
+   
+}
+
+#firstNameOutput {
+    color: brown;
+}
+
+#patronymicOutput {
+    color: brown;
+}
